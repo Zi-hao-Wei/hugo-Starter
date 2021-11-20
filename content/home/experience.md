@@ -25,7 +25,7 @@ experience:
   - title: Research Assitant
     company: Dynamic System Control Lab
     company_url: 'https://sites.ji.sjtu.edu.cn/dsc'
-    company_logo: org-gc
+    company_logo: SJTU
     location: Shanghai, China
     date_start: '2021-03-01'
     date_end: '2021-08-15'
@@ -38,7 +38,7 @@ experience:
   - title: Member
     company: VEX
     company_url: ''
-    company_logo: org-x
+    company_logo: vexRed
     location: Shanghai,China
     date_start: '2019-09-01'
     date_end: '2020-12-31'
