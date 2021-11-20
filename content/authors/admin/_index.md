@@ -1,9 +1,7 @@
 ---
 role: "Junior CS Student @ Umich;<br/> Junior ECE Student @ SJTU "
 bio: ""
-interests:
-  - Artificial Intelligence<br\>Deep Learning<br\> Computer Vision<br\>Natural
-    Language Processing
+interests: []
 social:
   - display:
       header: false
