@@ -1,8 +1,21 @@
 ---
 widget: featurette
+widget_id: recent-posts
 headless: true
 weight: 30
 title: Skills
 subtitle: null
-widget_id: recent-posts
 ---
+
+
+### Language skills:
+
+* *Native*: Chinese
+* *Near-native fluency*: English
+
+### Digital Tools:
+
+* *Operating systems*: Windows, Linux (Ubuntu)
+* *Coding*: C, **C++**, **Python**, Java, Elm, SQL, JavaScript, CSS, HTML, Git, Tex
+* *Text Edito*r: Markdown
+* *CAD*: Solidworks, AutoCAD
