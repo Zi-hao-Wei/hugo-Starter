@@ -6,6 +6,7 @@ interests:
 - Deep Learning
 - Computer Vision
 - Natural Language Processing
+- Battery Remaining Useful Life
 social:
   - display:
       header: false

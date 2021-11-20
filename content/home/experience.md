@@ -25,18 +25,34 @@ experience:
   - title: Research Assitant
     company: Dynamic System Control Lab
     company_url: 'https://sites.ji.sjtu.edu.cn/dsc'
-    company_logo: SJTU
+    company_logo: UMJI
     location: Shanghai, China
     date_start: '2021-03-01'
     date_end: '2021-08-15'
     description: |2-
+        Supervisor: Chengbin Ma
+
         Responsibilities include: 
       - Design a battery management system
       - Develop a GUI for the data-acquisition system
       - Discover new data-driven methods to predict lithium-ion battery's Remaining Useful Life.
+
+  - title: Participate in Research Program
+    company: SJTU Student Innovation Center
+    company_url: 'https://www.si.sjtu.edu.cn/'
+    company_logo: SJTU
+    location: Shanghai,China
+    date_start: '2020-08-01'
+    date_end: '2021-03-01'
+    description: |2-
+        Advisor: Chuntao Leng, Shukun Wu 
+        
+        Responsibilities include: 
+      - Design a Swerve chasis for robots to move in all direction
+      - Design and develop the control system for the robot 
         
   - title: Member
-    company: VEX
+    company: SJTU VEX Robotic Team
     company_url: ''
     company_logo: vexRed
     location: Shanghai,China
