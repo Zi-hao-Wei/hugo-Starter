@@ -1,5 +1,5 @@
 ---
-role: "Junior CS Student @ Umich;</br> Junior ECE Student @ SJTU "
+role: "Junior CS Student @ Umich;<br/> Junior ECE Student @ SJTU "
 bio: ""
 interests: []
 social:
