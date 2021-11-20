@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -23,12 +23,19 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: ""
-  date_start: "2021-02-4"
-  description: "The Mathematical Contest in Modeling"
+- date_end: "2021-02-08"
+  date_start: "2021-02-04"
+  description: "Win the **Finalist** awards of Problem C in the 2021 Mathematical Contest in Modeling competition."
   organization: COMAP
   organization_url: https://www.comap.com/
-  title: Finalist
+  title: Prize
+  url: ""
+- date_end: "2020-09-01"
+  date_start: "2019-09-01"
+  description: "Academic Excellent Scholarship of 2019-2020 school year."
+  organization: Shanghai Jiao Tong University
+  organization_url: 
+  title: Scholarship
   url: ""
   columns: '2' 
 ---
