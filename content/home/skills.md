@@ -1,5 +1,5 @@
 ---
-widget: featurette
+widget: blank
 widget_id: recent-posts
 headless: true
 weight: 30
@@ -20,3 +20,4 @@ active: true
 * *Coding*: C, **C++**, **Python**, Java, Elm, SQL, JavaScript, CSS, HTML, Git, Tex
 * *Text Edito*r: Markdown
 * *CAD*: Solidworks, AutoCAD
+
