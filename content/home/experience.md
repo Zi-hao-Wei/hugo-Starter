@@ -22,28 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Research Assitant
+    company: Dynamic System Control Lab
+    company_url: 'https://sites.ji.sjtu.edu.cn/dsc'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Shanghai, China
+    date_start: '2021-03-01'
+    date_end: '2021-08-15'
     description: |2-
-        Responsibilities include:
+        Responsibilities include: 
+      - Design a battery management system
+      - Develop a GUI for the data-acquisition system
+      - Discover new data-driven methods to predict lithium-ion battery's Remaining Useful Life.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Member
+    company: VEX
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
+    location: Shanghai,China
+    date_start: '2019-09-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include: 
+      - Design new machines for VEX competition
+      - Manufacture and construct robots
 
 design:
   columns: '2'
