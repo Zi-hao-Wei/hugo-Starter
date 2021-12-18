@@ -8,8 +8,7 @@ date: 2020-08-08T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Civilization Restart
-tags:
-  - Other
+tags: []
 links:
   - icon: github
     icon_pack: fab
