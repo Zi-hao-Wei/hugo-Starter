@@ -11,6 +11,7 @@ links:
   - name: ""
     url: https://github.com/Zi-hao-Wei/MCM2021-C
     icon_pack: fab
+    icon: github
 image:
   filename: buzz.png
   focal_point: Smart
