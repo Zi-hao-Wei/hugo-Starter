@@ -8,7 +8,8 @@ featured: false
 links:
   - url: https://github.com/aesrgan/A-ESRGAN
     icon_pack: fab
-    icon: https://github.com/aesrgan/A-ESRGAN
+    icon: github
+    name: Project Link
 image:
   filename: featured
   focal_point: Smart
