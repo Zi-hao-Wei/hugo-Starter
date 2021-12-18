@@ -6,6 +6,9 @@ draft: false
 featured: false
 authors:
   - Zihao Wei
+  - Qifei Wu
+  - Siyuan Lin
+  - Yidong Huang
 links:
   - url: https://github.com/Zi-hao-Wei/Civilization_Restart
     name: Project Link
