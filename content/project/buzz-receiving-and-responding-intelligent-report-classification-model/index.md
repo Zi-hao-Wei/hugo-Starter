@@ -7,6 +7,8 @@ draft: false
 featured: false
 authors:
   - Zihao Wei
+  - Jinnan Gao
+  - Zhujiang Gu
 links:
   - name: Project Link
     url: https://github.com/Zi-hao-Wei/MCM2021-C
