@@ -1,5 +1,5 @@
 ---
-title: "Buzz Receiving and Responding: Intelligent Report Classification Model"
+title: Intelligent Report and Predict Model
 date: 2021-02-07T17:23:18.431Z
 summary: An intelligent system to report and predict the Vespa mandarinia based
   on mathematic modeling and machine learning.
@@ -8,7 +8,7 @@ featured: false
 authors:
   - Zihao Wei
 links:
-  - name: ""
+  - name: Project Link
     url: https://github.com/Zi-hao-Wei/MCM2021-C
     icon_pack: fab
     icon: github
