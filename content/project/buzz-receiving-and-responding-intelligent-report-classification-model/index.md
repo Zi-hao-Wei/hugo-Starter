@@ -29,3 +29,5 @@ Our intelligent report classification model is finally built based on those two 
 As complement to the model, we determine the method and period of update taking hornets reproduction model and citizens’ habits into consideration. We thus build a detailed update pattern and a dynamic update period system based on Difference Equation Model (DEM) and public report submission frequency. Indication of the hornets eradication is provided as well. 
 
 In conclusion, we build a intelligent report classification model by computer vision and natural language processing techniques. A complete update pattern and dynamic update period are given too. The classification model could predict the likelihood of a wrong classification within acceptable accuracy and prioritize the possible positive reports with high precision. The entire system could be used to enhance the prevention and control of the spread of Asian giant hornets in Washington.
+
+This project wins the **Finalist** prize of 2021MCM-C.
