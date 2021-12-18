@@ -10,6 +10,8 @@ authors:
   - Yidong Huang
   - Yuang Chen
   - Chenhao Zheng
+categories:
+  - Deep Learning
 links:
   - url: https://github.com/aesrgan/A-ESRGAN
     icon_pack: fab
