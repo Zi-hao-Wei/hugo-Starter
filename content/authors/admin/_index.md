@@ -2,17 +2,22 @@
 role: "Junior CS Student @ Umich;<br/> Junior ECE Student @ SJTU "
 bio: ""
 interests:
-- Artificial Intelligence
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Battery Remaining Useful Life
+  - Artificial Intelligence
+  - Deep Learning
+  - Computer Vision
+  - Natural Language Processing
+  - Battery Remaining Useful Life
 social:
   - display:
       header: false
     link: https://github.com/Zi-hao-Wei
     icon_pack: ai
     icon: github
+  - display:
+      header: false
+    link: https://github.com/Zi-hao-Wei/Resume/blob/main/Resume.pdf
+    icon_pack: ai
+    icon: cv
 organizations:
   - name: University of Michigan
     url: https://umich.edu/
