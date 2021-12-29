@@ -1,6 +1,6 @@
 ---
 role: "Junior CS Student @ Umich;<br/> Junior ECE Student @ SJTU "
-bio: https://github.com/Zi-hao-Wei/Resume/blob/main/Resume.pdf
+bio: ""
 interests:
   - Artificial Intelligence
   - Deep Learning
@@ -11,7 +11,7 @@ social:
   - display:
       header: false
     link: https://github.com/Zi-hao-Wei
-    icon_pack: ai
+    icon_pack: fab
     icon: github
   - display:
       header: false
